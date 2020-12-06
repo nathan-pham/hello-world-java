@@ -1,14 +1,9 @@
-# Hello World
-Example Hello World Program written in Java
+# Hello World Java
+Hello World Java is a repository dedicated to learning Java. Most directories will contain a README file that describes the program and additional notes.  
+I am also taking notes on my iPad, so if you want to compare your notes with mine I would be happy to share by email. 
 
-## Keywords
-`public` (keyword): access modifier for declaring scope  
-`class` (keyword): defining a class, curly braces define class block  
-`void` (keyword): clarifies that method will not return a value  
-`static` (keyword): requires other knowledge (will review later)
+## Directories
+Hello: contains a simple Hello World program
 
-## Commands
-`System.out.println`: method to print to the console
-
-## Extra
-"Hello World": literal String
+## Contributions
+This repository is accepting contributions! I highly suggest adding Java resources (videos, links, books) to help myself and others. 
